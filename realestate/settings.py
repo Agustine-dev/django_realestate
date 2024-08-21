@@ -84,7 +84,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'm9000_realestate' ,
-        'USER': 'm9000_state',
+        'USER': 'm9000',
         'PASSWORD': 't0V)lSWayhKOxw%+a+F9yuJ1LqW04>',
         'HOST':'mysql3.serv00.com',
         
