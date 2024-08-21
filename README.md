@@ -10,19 +10,15 @@ A simple, reponsive  website. Built with:
 - Vanilla JS - ES6
 - JQuery
 
-If you are new to Django, checkout the [Django 2.x Cheat Sheet](https://github.com/TheCaffeineDev/Real-Estate-Django-Web-App/blob/master/django_cheat_sheet.md)
-
-If you want to deploy this Web App In Ubuntu 18.04 Server, Please Follow this [Guide](https://github.com/TheCaffeineDev/Real-Estate-Django-Web-App/blob/master/Django_Deployment_to_Ubuntu_18.04.md) 
-
 ## How to run this project (Ubuntu 18.04)
 
 1. **Clone the project**
 
 ```sh
-git clone https://github.com/TheCaffeineDev/Real-Estate-Django-Web-App.git
+git clone https://github.com/Agustine-dev/django_realestate.git
 ```
 
-2.  **Make sure you are in *Real-Estate-Django-Web-App* folder**
+2.  **Make sure you are in *django_realestate* folder**
 
    1. Install all dependencies
 
@@ -134,35 +130,26 @@ Note: Please change those gmail credentials from real_estate folder you will get
 
 - **HOME**
 
-![Home](https://github.com/TheCaffeineDev/Real-Estate-Django-Web-App/blob/master/screenshots/s1.JPG)
+![Home](https://github.com/Agustine-dev/django_realestate/blob/master/screenshots/s1.JPG)
 
 - **Listings** 
 
 
-![Listings](https://github.com/TheCaffeineDev/Real-Estate-Django-Web-App/blob/master/screenshots/s3list.JPG)
+![Listings](https://github.com/Agustine-dev/django_realestate/blob/master/screenshots/s3list.JPG)
 
 - **Registration** 
 
-![Registration](https://github.com/TheCaffeineDev/Real-Estate-Django-Web-App/blob/master/screenshots/s4reg.JPG)
+![Registration](https://github.com/Agustine-dev/django_realestate/blob/master/screenshots/s4reg.JPG)
 
 - **Admin Panel - 1**
 
-![Admin](https://github.com/TheCaffeineDev/Real-Estate-Django-Web-App/blob/master/screenshots/s5adm.JPG)
+![Admin](https://github.com/Agustine-dev/django_realestate/blob/master/screenshots/s5adm.JPG)
 
 - **Admin Panel - 2**
 
-![Admin](https://github.com/TheCaffeineDev/Real-Estate-Django-Web-App/blob/master/screenshots/s6r.JPG)
+![Admin](https://github.com/Agustine-dev/django_realestate/blob/master/screenshots/s6r.JPG)
 
 - **About**
 
-![About ](https://github.com/TheCaffeineDev/Real-Estate-Django-Web-App/blob/master/screenshots/s2about.JPG)
+![About ](https://github.com/Agustine-dev/django_realestate/blob/master/screenshots/s2about.JPG)
 
-
-## Acknowledgments
-
-Many thanks to [@bradtraversy](https://github.com/bradtraversy) for his awesome course.
-
-##### References
-
-1. https://www.traversymedia.com/
-2. https://www.djangoproject.com/
