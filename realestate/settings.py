@@ -82,11 +82,11 @@ WSGI_APPLICATION = 'realestate.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'm9000_realestate' ,
-        'USER': 'm9000',
-        'PASSWORD': 't0V)lSWayhKOxw%+a+F9yuJ1LqW04>',
-        'HOST':'mysql3.serv00.com',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'p9000_realestate' ,
+        'USER': 'p9000_realestate',
+        'PASSWORD': '#lz(PrYu3DzA_G05D{14CUNMqrj76Q',
+        'HOST':'pgsql3.serv00.com',
         
     }
 }
